@@ -9,8 +9,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9d0f2ca-6167-4b6c-8a76-ccc1b92ce25d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cycle1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson20/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson20/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ctrl1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ctrl1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Practic18/PR2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Practic18/PR2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ctrl1/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ctrl1/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ctrl1/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ctrl1/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ctrl1/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ctrl1/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic18/PR2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic18/PR2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,38 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson15/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practic18/PR1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practic18/PR2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ctrl1/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson20/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -85,12 +65,18 @@
         <option value="$PROJECT_DIR$/src/lesson15/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson16/Main.java" />
         <option value="$PROJECT_DIR$/src/Practic18/PR1.java" />
-        <option value="$PROJECT_DIR$/src/Practic18/PR2.java" />
         <option value="$PROJECT_DIR$/src/Ctrl1/Main.java" />
+        <option value="$PROJECT_DIR$/src/Ctrl1/Main2.java" />
+        <option value="$PROJECT_DIR$/src/Ctrl1/Main3.java" />
+        <option value="$PROJECT_DIR$/src/Ctrl1/Main4.java" />
+        <option value="$PROJECT_DIR$/src/Practic18/PR2.java" />
+        <option value="$PROJECT_DIR$/src/cycle1/Main.java" />
+        <option value="$PROJECT_DIR$/src/lesson20/Main.java" />
+        <option value="$PROJECT_DIR$/src/lesson20/Main2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
@@ -127,6 +113,12 @@
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
               <item name="linear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Practic18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -136,7 +128,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601448154548" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601891665377" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -158,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ctrl1.Main" />
       <module name="linear" />
@@ -172,25 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson15.Main" />
-      <module name="linear" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson16.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson20.Main" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson16.*" />
+          <option name="PATTERN" value="lesson20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +177,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PR1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic18.PR1" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ctrl1.Main2" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic18.*" />
+          <option name="PATTERN" value="Ctrl1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ctrl1.Main4" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ctrl1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.PR2" />
-        <item itemvalue="Application.PR1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -248,10 +240,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14442013" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14605543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -260,7 +252,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31551364" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31464174" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39816934" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -268,7 +260,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32951945" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32744783" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3271028" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -278,6 +270,34 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31464174" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39816934" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32951945" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3271028" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lesson5/Ьфштъ.java" />
@@ -351,24 +371,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ctrl1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ctrl1.java" />
     <entry file="file://$PROJECT_DIR$/src/Practic18/PR2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        <state relative-caret-position="561">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ctrl1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ctrl1/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ctrl1/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ctrl1/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cycle1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson20/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson20/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
