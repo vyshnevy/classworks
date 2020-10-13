@@ -16,12 +16,16 @@ int j = 2;
 
                 while(j<=i)
                 {
-                    if ((i%j) == 0)
-                        k++;
+
+                    if ((i%j) == 0){
+                        k++;}
+
                 j++;}
                 if (k<2)
                     System.out.print(i + " ");
 i++;
+j=2;
+
           }
       }
   }
