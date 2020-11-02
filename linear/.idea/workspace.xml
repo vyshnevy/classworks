@@ -7,20 +7,15 @@
     <bookmark url="file://$PROJECT_DIR$/src/lesson8/Main.java" line="27" />
     <bookmark url="file://$PROJECT_DIR$/src/Ctrl1/Main.java" line="21" />
     <bookmark url="file://$PROJECT_DIR$/src/PractiseWork1/Main3.java" line="20" />
+    <bookmark url="file://$PROJECT_DIR$/src/lesson29/example1.java" line="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9d0f2ca-6167-4b6c-8a76-ccc1b92ce25d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Arrrrrrrrrrrrrrrrays/example1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Arrrrrrrrrrrrrrrrays/lesson25.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Arrrrrrrrrrrrrrrrays/lesson26.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Arrrrrrrrrrrrrrrrays/lesson27.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/EXAMPLE3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/example2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/PW8/treugolniki5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/PW8/treugolniki5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PW8/treugolniki5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PW8/treugolniki5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson25.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -52,17 +47,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson29/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson29/example1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson29/example2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="30" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/example1.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson29/EXAMPLE3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="408">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -121,13 +143,18 @@
         <option value="$PROJECT_DIR$/src/PW8/treugolniki5.java" />
         <option value="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson25.java" />
         <option value="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson26.java" />
-        <option value="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson27.java" />
         <option value="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/example1.java" />
+        <option value="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson27.java" />
+        <option value="$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/дуыыщт28.java" />
+        <option value="$PROJECT_DIR$/src/lesson29/Main.java" />
+        <option value="$PROJECT_DIR$/src/lesson29/example1.java" />
+        <option value="$PROJECT_DIR$/src/lesson29/example2.java" />
+        <option value="$PROJECT_DIR$/src/lesson29/EXAMPLE3.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="7" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -139,7 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,7 +183,7 @@
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
               <item name="linear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrrrrrrrrrrrrrrrays" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson29" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
@@ -168,11 +195,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603101862918" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604315101661" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -194,13 +221,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.example1">
-    <configuration name="Treugolniki1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PW8.Treugolniki1" />
+  <component name="RunManager" selected="Application.EXAMPLE3">
+    <configuration name="EXAMPLE3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson29.EXAMPLE3" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PW8.*" />
+          <option name="PATTERN" value="lesson29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +235,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Treugolniki2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PW8.Treugolniki2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson29.Main" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PW8.*" />
+          <option name="PATTERN" value="lesson29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson29.example1" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,26 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrrrrrrrrrrrrrrrays.lesson25" />
-      <module name="linear" />
-      <option name="PROGRAM_PARAMETERS" value="kjngfdsojjgjoerujre jfcjfdujmnvfujcufuj myfd iyestriuyfewiuyfdhiuduhoiuedfiooijedsamnfifogpjjfdn eoirirfijgijfoijgoijfdoijgiojfdgireeeegf gifdigijfijgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgjgp[ jfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfiiiiiiiiiiiiiiiiiiiiiiiiiiiiifijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijij ijfapopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopijfe pijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfeijfe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrrrrrrrrrrrrrrrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="treugolniki5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PW8.treugolniki5" />
+    <configuration name="example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson29.example2" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PW8.*" />
+          <option name="PATTERN" value="lesson29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,19 +289,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lesson25" />
-      <item itemvalue="Application.Treugolniki1" />
-      <item itemvalue="Application.Treugolniki2" />
-      <item itemvalue="Application.treugolniki5" />
       <item itemvalue="Application.example1" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.example1 (1)" />
+      <item itemvalue="Application.example2" />
+      <item itemvalue="Application.EXAMPLE3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EXAMPLE3" />
+        <item itemvalue="Application.example2" />
+        <item itemvalue="Application.example1 (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.example1" />
-        <item itemvalue="Application.lesson25" />
-        <item itemvalue="Application.treugolniki5" />
-        <item itemvalue="Application.Treugolniki2" />
-        <item itemvalue="Application.Treugolniki1" />
       </list>
     </recent_temporary>
   </component>
@@ -290,13 +316,21 @@
       <option name="presentableId" value="Default" />
       <updated>1599472020518</updated>
     </task>
+    <task id="LOCAL-00001" summary="dskgfm">
+      <created>1603101974510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603101974510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -351,6 +385,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dskgfm" />
+    <option name="LAST_COMMIT_MESSAGE" value="dskgfm" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lesson5/Ьфштъ.java" />
@@ -590,7 +628,7 @@
     <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson25.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -601,17 +639,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/дуыыщт28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson27.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/example1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson29/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson29/example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson29/example2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson29/EXAMPLE3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
         </state>
       </provider>
     </entry>
