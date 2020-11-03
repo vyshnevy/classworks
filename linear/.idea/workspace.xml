@@ -10,13 +10,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/lesson29/example1.java" line="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9d0f2ca-6167-4b6c-8a76-ccc1b92ce25d" name="Default Changelist" comment="dskgfm">
-      <change afterPath="$PROJECT_DIR$/src/PRfrom9to11/PR10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRfrom9to11/PR11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRfrom9to11/PR9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRfrom9to11/PR92.java" afterDir="false" />
+    <list default="true" id="d9d0f2ca-6167-4b6c-8a76-ccc1b92ce25d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PRfrom9to11/PR101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRfrom9to11/PR93.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson29/EXAMPLE3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson29/EXAMPLE3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PRfrom9to11/PR10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PRfrom9to11/PR10.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,55 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson25.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson26.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson27.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson29/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson29/example1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson29/example2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="510">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -84,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson29/EXAMPLE3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="66" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="66" />
+            <state relative-caret-position="124">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -99,11 +52,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR92.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="153">
+              <caret line="9" column="66" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR93.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR101.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -171,6 +151,9 @@
         <option value="$PROJECT_DIR$/src/lesson29/EXAMPLE3.java" />
         <option value="$PROJECT_DIR$/src/PRfrom9to11/PR9.java" />
         <option value="$PROJECT_DIR$/src/PRfrom9to11/PR92.java" />
+        <option value="$PROJECT_DIR$/src/PRfrom9to11/PR93.java" />
+        <option value="$PROJECT_DIR$/src/PRfrom9to11/PR101.java" />
+        <option value="$PROJECT_DIR$/src/PRfrom9to11/PR10.java" />
       </list>
     </option>
   </component>
@@ -203,6 +186,18 @@
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
               <item name="linear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrrrrrrrrrrrrrrrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson29" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PractiseWork1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,7 +221,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604406563031" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604407461352" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -248,13 +243,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PR92">
+  <component name="RunManager" selected="Application.PR10">
     <configuration name="EXAMPLE3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson29.EXAMPLE3" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PR10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRfrom9to11.PR10" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PRfrom9to11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +296,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson29.example1" />
-      <module name="linear" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson29.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson29.example2" />
       <module name="linear" />
@@ -315,19 +310,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.example1 (1)" />
       <item itemvalue="Application.example2" />
       <item itemvalue="Application.EXAMPLE3" />
       <item itemvalue="Application.PR9" />
       <item itemvalue="Application.PR92" />
+      <item itemvalue="Application.PR10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PR10" />
         <item itemvalue="Application.PR92" />
         <item itemvalue="Application.PR9" />
         <item itemvalue="Application.EXAMPLE3" />
         <item itemvalue="Application.example2" />
-        <item itemvalue="Application.example1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -356,13 +351,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604315159812</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dskgfm">
+      <created>1604406674887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604406674887</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,7 +374,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31671858" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31671858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39816934" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,7 +426,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="dskgfm" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson5/Ьфштъ.java" />
     <entry file="file://$PROJECT_DIR$/src/lesson3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -658,34 +660,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/дуыыщт28.java" />
-    <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson29/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -714,6 +688,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -721,10 +702,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson29/EXAMPLE3.java">
+    <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR92.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="66" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="66" />
+        <state relative-caret-position="153">
+          <caret line="9" column="66" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -735,6 +716,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrrrrrrrrrrrrrrrays/lesson25.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -742,10 +730,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR92.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson29/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson29/EXAMPLE3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR93.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PRfrom9to11/PR10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
