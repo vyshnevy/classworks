@@ -7,6 +7,7 @@ public class EXAMPLE3 {
         int minIndex = -1;
         int maxIndex = -1;
         int j = 0;
+        int t = 0;
         int[] r = new int[10];
         for (int i = 0, n = r.length; i < n; i++) {
             r[i] = (int) (Math.random() * 100 * Math.pow(-1, i));}
