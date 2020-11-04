@@ -1,5 +1,5 @@
 package PRfrom9to11;
-
+//Масив поділити на два масива: додатних та від'ємних чисел
 public class PR11 {
     public static void main(String[] args) {
         int p = 0;
