@@ -29,12 +29,12 @@ public class PR111 {
             if(r[i]==min & i!=minI){f1 = i;}
             if(r[i]==max& i!=maxI){f2 = i;}
         }
-        for (int i = 0, n = r1.length; i < n; i++)
-            if (i == f1 | i == f2) {
-            } else {
-                r1[counter] = r[i];
-                counter++;
-            }
+        for (int i = 0, n = r1.length; i < n; i++) {
+        if(i == f1 ){
+        }else if(i==f2){}else{r1[counter]=r[i];counter++;}
+
+
+        }
         System.out.println(f1+", "+f2);
         System.out.println(minI+", "+maxI);
 
