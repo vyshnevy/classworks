@@ -3,7 +3,7 @@ package pr18;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-public class Main {
+ class Main {
     public static void main(String[] args) {
         GregorianCalendar g = new GregorianCalendar();
         g.set(Calendar.MONTH, Calendar.FEBRUARY);
@@ -16,19 +16,19 @@ public class Main {
             int d = g.get(Calendar.DAY_OF_WEEK);
             switch(d){
                 case 1:
-                    System.out.println("Monday");break;
+                    System.out.println("Sunday year is: "+year);break;
                 case 2:
-                    System.out.println("Tuesday");break;
+                    System.out.println("Mondayyear is: "+year);break;
                 case 3:
-                    System.out.println("Wednesday");break;
+                    System.out.println("Tuesdayyear is: "+year);break;
                 case 4:
-                    System.out.println("Thursday");break;
+                    System.out.println("Wednesdayyear is: "+year);break;
                 case 5:
-                    System.out.println("Friday");break;
+                    System.out.println("Thursdayyear is: "+year);break;
                 case 6:
-                    System.out.println("Saturday");break;
+                    System.out.println("Fridayyear is: "+year);break;
                 case 7:
-                    System.out.println("Sunday");break;
+                    System.out.println("Saturday");break;
             }
         }
     }
